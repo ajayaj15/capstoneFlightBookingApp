@@ -23,11 +23,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
-Real Time News App
 
-Front End Url : https://6704f1c4db196bf95b4dc46e--thriving-squirrel-8d49f9.netlify.app/login
-
-Back End Url : https://capstonerealtimenewsapp-1.onrender.com/
 
 For Mail Configuration Used Node mailer
 
